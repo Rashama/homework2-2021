@@ -1,7 +1,7 @@
 body {
 background-color: #000000;
 color: #FFF;
-font-family: 'Times New Roman', Times, sans-serif;
+font-family: "Times New Roman", sans-serif;
 }
 
 h1{
@@ -12,7 +12,7 @@ h1{
 
 h2{
     font-size: 32px;
-    text-shadow: 4px 4px 2px  #ff0000;
+    text-shadow: 4px 4px 2px  #808080;
 }
 
 p{
@@ -47,7 +47,7 @@ div{
 
 
 #yellow {
-    background-color: #e2fa07;
+    background-color: #FFFF00; 
     text-align: right;
 }
 
